@@ -1,3 +1,4 @@
+<h1 style="color:#F3E4F5;">Nihal Abdullahi – E‑Portfolio</h1>
 # Nihal Abdullahi - E-Portfolio
 
 MSc student in Information Technology at KTH Royal Institute of Technology with an interest in software development, machine learning and cyber security.
@@ -8,18 +9,17 @@ I’m always looking for opportunities to learn, improve and contribute to meani
 **LinkedIn:** https://www.linkedin.com/in/nihal-abdullahi/
 
 ---
-
+<h2 style="color:#E8DAF0;">About Me</h2>
 ## About Me
 
 I have a background in natural sciences and currently study Information Technology at KTH.  
 Through roles in warehouse work, childcare, and administrative support, I’ve developed strong communication skills, reliability and the ability to work with people from diverse backgrounds.  
-Technically, I’m building experience in Java, C, SQL, and embedded development and I enjoy developing projects that are both hands‑on and meaningful.
+Technically, I’m building experience in Java, C, SQL, and embedded development and I enjoy developing projects that are both fun and meaningful.
 
 ---
+<h2 style="color:#E8DAF0;">Featured Projects</h2>
 
-## Featured Projects
-
-### Embedded Traffic Light System
+<h3 style="color:#E8DAF0;">Embedded Traffic Light System</h3>
 
 An embedded traffic light control system developed using the STM32 Nucleo‑L476RG board and a Traffic Light Shield. It simulates realistic vehicle and pedestrian traffic behavior while providing real-time visual feedback through LEDs and an OLED display.
 
@@ -56,7 +56,7 @@ STM32 Nucleo, C + HAL, FSM logic, SPI, PWM
 
 ---
 
-## Skills
+<h2 style="color:#E8DAF0;">Skills</h2>
 
 **Programming**  
 Java, C, SQL (Postgres)
@@ -69,7 +69,7 @@ Swedish (proficient), English (proficient), Somali (native)
 
 ---
 
-## Contact
+<h2 style="color:#E8DAF0;">Contact</h2>
 
 I’m open to internships, part‑time roles, summer positions and collaborative projects.
 
