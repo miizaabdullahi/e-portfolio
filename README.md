@@ -19,10 +19,9 @@ Technically, I’m building experience in Java, C, SQL, and embedded development
 
 ## Featured Projects
 
-
 ### Embedded Traffic Light System
 
-An embedded traffic light control system developed using the STM32 Nucleo-L476RG board and a Traffic Light Shield. It simulates realistic vehicle and pedestrian traffic behavior while providing real-time visual feedback through LEDs and an OLED display.
+An embedded traffic light control system developed using the STM32 Nucleo‑L476RG board and a Traffic Light Shield. It simulates realistic vehicle and pedestrian traffic behavior while providing real-time visual feedback through LEDs and an OLED display.
 
 **Process**  
 The project was implemented in C using STM32CubeIDE together with the STM32 HAL libraries for peripheral configuration and hardware abstraction. SPI communication was used to control cascaded 74HC595 shift registers and the OLED display, GPIO was used for buttons and car detection switches, ADC and PWM were used for potentiometer-based LED brightness control, and finite state machines (FSMs) were implemented to manage pedestrian and vehicle traffic logic. The system was designed in a modular way using separate software layers and custom drivers for traffic control, shift registers, display handling and brightness control.
@@ -33,11 +32,20 @@ The prototype demonstrates a complete intersection controller: button-triggered 
 **Technologies**  
 STM32 Nucleo, C + HAL, FSM logic, SPI, PWM
 
-<img width="346" height="214" alt="image" src="https://github.com/user-attachments/assets/49e6bb4b-c73b-4a74-99b0-b0118db53a9f" />
-<img width="495" height="297" alt="image" src="https://github.com/user-attachments/assets/f8a081d0-8ac7-4bfa-80e0-ec2dc7585969" />
-<img width="309" height="317" alt="image" src="https://github.com/user-attachments/assets/821c2c91-5a99-42e4-a450-922d0f05eb9d" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/49e6bb4b-c73b-4a74-99b0-b0118db53a9f" width="70%">
+  <br>
+  <em>Main prototype demo showing LED traffic states.</em>
+</p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f8a081d0-8ac7-4bfa-80e0-ec2dc7585969" width="48%">
+  <img src="https://github.com/user-attachments/assets/821c2c91-5a99-42e4-a450-922d0f05eb9d" width="48%">
+  <br>
+  <em>System diagram and control flow chart.</em>
+</p>
 
+---
 
 ## Skills
 
