@@ -32,28 +32,25 @@ STM32 Nucleo, C + HAL, FSM logic, SPI, PWM
 
 ---
 
-### Main prototype demo
 <p align="center">
   <img src="https://github.com/user-attachments/assets/49e6bb4b-c73b-4a74-99b0-b0118db53a9f" width="55%">
   <br>
   <em>Main prototype demo</em>
 </p>
 
-### System diagram
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f8a081d0-8ac7-4bfa-80e0-ec2dc7585969" width="55%">
   <br>
   <em>System diagram</em>
 </p>
 
-### Control flow
 <p align="center">
   <img src="https://github.com/user-attachments/assets/821c2c91-5a99-42e4-a450-922d0f05eb9d" width="55%">
   <br>
   <em>Control flow</em>
 </p>
 
---
+
 
 <h2 style="color:#3C0008;">Skills</h2>
 
