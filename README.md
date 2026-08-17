@@ -1,7 +1,7 @@
 # Nihal Abdullahi - E-Portfolio
 
-I’m a Master’s student in Information Technology at KTH Royal Institute of Technology in Stockholm.  
-I enjoy building practical, user‑focused solutions across software and embedded systems, and I’m always looking for opportunities to learn, improve, and contribute to meaningful projects.
+MSc student in Information Technology at KTH Royal Institute of Technology with an interest in software development, machine learning and cyber security.
+I’m always looking for opportunities to learn, improve and contribute to meaningful projects.
 
 **Location:** Stockholm, Sweden  
 **Email:** miizaabdullahi@gmail.com  
@@ -19,42 +19,25 @@ Technically, I’m building experience in Java, C, SQL, and embedded development
 
 ## Featured Projects
 
-### Software — Portfolio Website
 
-A responsive single‑page portfolio designed to present my projects, technical strengths, and contact information in a clear and structured way.
+### Embedded Traffic Light System
 
-**Purpose**  
-To give employers a direct, accessible overview of what I can build and how I approach problem‑solving.
+An embedded traffic light control system developed using the STM32 Nucleo-L476RG board and a Traffic Light Shield. It simulates realistic vehicle and pedestrian traffic behavior while providing real-time visual feedback through LEDs and an OLED display.
 
 **Process**  
-I structured the site into intuitive sections (About, Projects, Skills, Contact), refined the visual hierarchy, and kept the implementation lightweight for GitHub Pages.  
-The focus was on clarity, readability, and making it easy for visitors to understand who I am and what I do.
-
-**Technologies**  
-HTML, CSS, JavaScript, GitHub Pages
-
----
-
-### Hardware — Embedded Traffic Light System
-
-An embedded intersection controller built using the STM32 Nucleo‑L476RG and a traffic‑light shield.  
-The system simulates realistic pedestrian and vehicle behavior with LED indicators and an OLED display for real‑time feedback.
-
-**Process**  
-The project was implemented in C using STM32CubeIDE and the STM32 HAL libraries.  
-SPI communication drives cascaded 74HC595 shift registers and the OLED display.  
-GPIO handles pedestrian buttons and car‑detection switches.  
-ADC and PWM provide adjustable LED brightness through a potentiometer.  
-The control logic is organized using finite state machines, with timing handled through HAL_GetTick().  
-The software is structured into modular layers for traffic logic, shift‑register output, display handling, and brightness control, making the system easier to test and extend.
+The project was implemented in C using STM32CubeIDE together with the STM32 HAL libraries for peripheral configuration and hardware abstraction. SPI communication was used to control cascaded 74HC595 shift registers and the OLED display, GPIO was used for buttons and car detection switches, ADC and PWM were used for potentiometer-based LED brightness control, and finite state machines (FSMs) were implemented to manage pedestrian and vehicle traffic logic. The system was designed in a modular way using separate software layers and custom drivers for traffic control, shift registers, display handling and brightness control.
 
 **Demo Focus**  
-The prototype demonstrates a complete intersection controller with pedestrian‑triggered crossings, car‑detection‑based timing adjustments, LED traffic states, OLED countdown feedback, and adjustable brightness.
+The prototype demonstrates a complete intersection controller: button-triggered pedestrian crossings, car-detection based traffic changes, LED traffic states, OLED countdown feedback and adjustable LED brightness through a potentiometer.
 
 **Technologies**  
-STM32 Nucleo, C + HAL, FSM logic, SPI, PWM, 74HC595, SSD1306 OLED
+STM32 Nucleo, C + HAL, FSM logic, SPI, PWM
 
----
+<img width="346" height="214" alt="image" src="https://github.com/user-attachments/assets/49e6bb4b-c73b-4a74-99b0-b0118db53a9f" />
+<img width="495" height="297" alt="image" src="https://github.com/user-attachments/assets/f8a081d0-8ac7-4bfa-80e0-ec2dc7585969" />
+<img width="309" height="317" alt="image" src="https://github.com/user-attachments/assets/821c2c91-5a99-42e4-a450-922d0f05eb9d" />
+
+
 
 ## Skills
 
@@ -71,7 +54,7 @@ Swedish (proficient), English (proficient), Somali (native)
 
 ## Contact
 
-I’m open to internships, part‑time roles, summer positions, and collaborative projects.
+I’m open to internships, part‑time roles, summer positions and collaborative projects.
 
 **Email:** miizaabdullahi@gmail.com  
 **LinkedIn:** https://www.linkedin.com/in/nihal-abdullahi/
