@@ -32,7 +32,7 @@ The prototype demonstrates a complete intersection controller: button-triggered 
 **Technologies**  
 STM32 Nucleo, C + HAL, FSM logic, SPI, PWM
 
-
+---
 ### Main prototype demo
 <p align="center">
   <img src="https://github.com/user-attachments/assets/49e6bb4b-c73b-4a74-99b0-b0118db53a9f" width="55%">
@@ -54,7 +54,7 @@ STM32 Nucleo, C + HAL, FSM logic, SPI, PWM
   <em>Control flow</em>
 </p>
 
----
+--
 
 <h2 style="color:#E8DAF0;">Skills</h2>
 
