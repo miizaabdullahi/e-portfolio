@@ -1,5 +1,4 @@
-<h1 style="color:#F3E4F5;">Nihal Abdullahi – E‑Portfolio</h1>
-# Nihal Abdullahi - E-Portfolio
+<h1 style="color:#3C0008;">Nihal Abdullahi – E‑Portfolio</h1>
 
 MSc student in Information Technology at KTH Royal Institute of Technology with an interest in software development, machine learning and cyber security.
 I’m always looking for opportunities to learn, improve and contribute to meaningful projects.
@@ -9,17 +8,16 @@ I’m always looking for opportunities to learn, improve and contribute to meani
 **LinkedIn:** https://www.linkedin.com/in/nihal-abdullahi/
 
 ---
-<h2 style="color:#E8DAF0;">About Me</h2>
-## About Me
+<h2 style="color:#3C0008;">About Me</h2>
 
 I have a background in natural sciences and currently study Information Technology at KTH.  
 Through roles in warehouse work, childcare, and administrative support, I’ve developed strong communication skills, reliability and the ability to work with people from diverse backgrounds.  
 Technically, I’m building experience in Java, C, SQL, and embedded development and I enjoy developing projects that are both fun and meaningful.
 
 ---
-<h2 style="color:#E8DAF0;">Featured Projects</h2>
+<h2 style="color:#3C0008;">Featured Projects</h2>
 
-<h3 style="color:#E8DAF0;">Embedded Traffic Light System</h3>
+<h3 style="color:#3C0008;">Embedded Traffic Light System</h3>
 
 An embedded traffic light control system developed using the STM32 Nucleo‑L476RG board and a Traffic Light Shield. It simulates realistic vehicle and pedestrian traffic behavior while providing real-time visual feedback through LEDs and an OLED display.
 
@@ -33,21 +31,18 @@ The prototype demonstrates a complete intersection controller: button-triggered 
 STM32 Nucleo, C + HAL, FSM logic, SPI, PWM
 
 ---
-### Main prototype demo
 <p align="center">
   <img src="https://github.com/user-attachments/assets/49e6bb4b-c73b-4a74-99b0-b0118db53a9f" width="55%">
   <br>
   <em>Main prototype demo</em>
 </p>
 
-### System diagram
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f8a081d0-8ac7-4bfa-80e0-ec2dc7585969" width="55%">
   <br>
   <em>System diagram</em>
 </p>
 
-### Control flow
 <p align="center">
   <img src="https://github.com/user-attachments/assets/821c2c91-5a99-42e4-a450-922d0f05eb9d" width="55%">
   <br>
@@ -56,7 +51,7 @@ STM32 Nucleo, C + HAL, FSM logic, SPI, PWM
 
 --
 
-<h2 style="color:#E8DAF0;">Skills</h2>
+<h2 style="color:#3C0008;">Skills</h2>
 
 **Programming**  
 Java, C, SQL (Postgres)
@@ -69,7 +64,7 @@ Swedish (proficient), English (proficient), Somali (native)
 
 ---
 
-<h2 style="color:#E8DAF0;">Contact</h2>
+<h2 style="color:#3C0008;">Contact</h2>
 
 I’m open to internships, part‑time roles, summer positions and collaborative projects.
 
