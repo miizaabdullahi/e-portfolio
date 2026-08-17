@@ -12,8 +12,8 @@ I’m always looking for opportunities to learn, improve and contribute to meani
 ## About Me
 
 I have a background in natural sciences and currently study Information Technology at KTH.  
-Through roles in warehouse logistics, childcare, and administrative support, I’ve developed strong communication skills, reliability, and the ability to work with people from diverse backgrounds.  
-Technically, I’m building experience in Java, C, SQL, and embedded development, and I enjoy projects where software meets real‑world constraints.
+Through roles in warehouse work, childcare, and administrative support, I’ve developed strong communication skills, reliability and the ability to work with people from diverse backgrounds.  
+Technically, I’m building experience in Java, C, SQL, and embedded development and I enjoy developing projects that are both hands‑on and meaningful.
 
 ---
 
