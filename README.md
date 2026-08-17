@@ -32,17 +32,26 @@ The prototype demonstrates a complete intersection controller: button-triggered 
 **Technologies**  
 STM32 Nucleo, C + HAL, FSM logic, SPI, PWM
 
+
+### Main prototype demo
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/49e6bb4b-c73b-4a74-99b0-b0118db53a9f" width="70%">
+  <img src="https://github.com/user-attachments/assets/49e6bb4b-c73b-4a74-99b0-b0118db53a9f" width="55%">
   <br>
-  <em>Main prototype demo showing LED traffic states.</em>
+  <em>Main prototype demo</em>
 </p>
 
+### System diagram
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f8a081d0-8ac7-4bfa-80e0-ec2dc7585969" width="48%">
-  <img src="https://github.com/user-attachments/assets/821c2c91-5a99-42e4-a450-922d0f05eb9d" width="48%">
+  <img src="https://github.com/user-attachments/assets/f8a081d0-8ac7-4bfa-80e0-ec2dc7585969" width="55%">
   <br>
-  <em>System diagram and control flow chart.</em>
+  <em>System diagram</em>
+</p>
+
+### Control flow
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/821c2c91-5a99-42e4-a450-922d0f05eb9d" width="55%">
+  <br>
+  <em>Control flow</em>
 </p>
 
 ---
